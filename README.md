@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This proof-of-concept led to the creation of [@typegpu/three](https://typegpu.com/ecosystem/typegpu-three/), which now lives in the [main TypeGPU repository](https://github.com/software-mansion/typegpu).
+
 # Integrating TypeGPU with Three.js
 
 This example demonstrates how to share resources between TypeGPU and Three.js. It renders a textured cube with Three.js and then updates its mesh using a combination of TSL and TypeGPU shaders. In this setup:
